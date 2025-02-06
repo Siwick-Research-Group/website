@@ -108,11 +108,13 @@ __B. J. Siwick__, O. Kalinina, E. Kumacheva, R. J. D. Miller and J. Noolandi, Po
 
 ## Theses and Memoirs
 
-__Laurent P. René de Cotret__ (PhD. Physics, 2021), From carrier cooling to polaron formation: ultrafast phonon dynamics across the Brillouin zone [PDF](https://laurentrdc.xyz/files/dissertation.pdf). All source material, including text files, figure scripts, and more, are available on [GitHub](https://github.com/LaurentRDC/dissertation).
+__Tristan L. Britt__ (Ph.D. Physics, 2024), A systematic study of phonon dynamics at the 2D limit and beyond: an ab-initio view of ultrafast diffuse scattering. [PDF](https://escholarship.mcgill.ca/concern/theses/vx021m84x)
 
-__Martin R. Otto__ (Ph.D. Physics, 2019), Advancements in electron pulse compression technology applied to ultrafast electron scattering [PDF](https://escholarship.mcgill.ca/concern/theses/s4655m80w)
+__Laurent P. René de Cotret__ (Ph.D. Physics, 2021), From carrier cooling to polaron formation: ultrafast phonon dynamics across the Brillouin zone. [PDF](https://laurentrdc.xyz/files/dissertation.pdf). All source material, including text files, figure scripts, and more, are available on [GitHub](https://github.com/LaurentRDC/dissertation).
 
-__Mark J. Stern__ (Ph.D. Physics, 2018), Ultrafast electron diffuse scattering and its application to 2D materials [PDF](https://escholarship.mcgill.ca/concern/theses/c534fr13f)
+__Martin R. Otto__ (Ph.D. Physics, 2019), Advancements in electron pulse compression technology applied to ultrafast electron scattering. [PDF](https://escholarship.mcgill.ca/concern/theses/s4655m80w)
+
+__Mark J. Stern__ (Ph.D. Physics, 2018), Ultrafast electron diffuse scattering and its application to 2D materials. [PDF](https://escholarship.mcgill.ca/concern/theses/c534fr13f)
 
 __Laurent P. René de Cotret__ (M.Sc. Physics, 2016), New Data Analysis and Visualization Methods for Ultrafast Electron Diffraction. [PDF](https://escholarship.mcgill.ca/concern/theses/tm70mz19d)
 
