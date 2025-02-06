@@ -92,7 +92,7 @@ __B. J. Siwick__, J. R. Dwyer, R. E. Jordan and R. J. D. Miller, Response to Com
 
 __B. J. Siwick__, J. R. Dwyer, R. E. Jordan and R. J. D. Miller, Ultrafast Electron Optics: Propagation Dynamics of Femtosecond Electron Packets, J. Appl. Phys. 92 (3) 2002, [pp. 1643-1648](https://aip.scitation.org/doi/10.1063/1.1487437)
 
-D. Kraemer, __B. J. Siwick__ and R. J. D. Miller, Ultra-High Density Optical Data Storage: Information Retrieval an Order of Magnitude Beyond the Rayleigh Limit, Chem. Phys., 285 (1) 2002, [pp. 73-83](http://www.sciencedirect.com/science/article/pii/S0301010402006900) Special Issue on Unconventional Photoactive Materials
+D. Kraemer, __B. J. Siwick__ and R. J. D. Miller, Ultra-High Density Optical Data Storage: Information Retrieval an Order of Magnitude Beyond the Rayleigh Limit, Chem. Phys. 285 (1) 2002, [pp. 73-83](http://www.sciencedirect.com/science/article/pii/S0301010402006900) Special Issue on Unconventional Photoactive Materials
 
 __B. J. Siwick__, O. Kalinina, E. Kumacheva, R. J. D. Miller and J. Noolandi, Polymeric Nanostructured Materials for High-Density Three-Dimensional Optical Memory, J. Appl. Phys. 90 (10) 2001, [pp. 5328-5334](https://aip.scitation.org/doi/10.1063/1.1406547)
 
@@ -128,13 +128,13 @@ __Vance Morrison__ (Ph.D. Physics, 2014), Structural dynamics of the metal-insul
 
 __Mark Stern__ (M.Sc. Physics, 2012), Time-resolved transmission electron microscopy: The structural dynamics of explosive crystallization in amorphous germanium. [PDF](https://escholarship.mcgill.ca/concern/theses/9c67wr362)
 
-__Shona McGowan__ (M.Sc., Physics 2009), In situ study of amorphous semiconductor crystallization by Dynamic Transmission Electron Microscopy. [PDF](https://escholarship.mcgill.ca/concern/theses/b5644s034)
+__Shona McGowan__ (M.Sc. Physics 2009), In situ study of amorphous semiconductor crystallization by Dynamic Transmission Electron Microscopy. [PDF](https://escholarship.mcgill.ca/concern/theses/b5644s034)
 
-__Thana Ghunaim__ (M.Sc., Physics 2009), Magnetic Lens Design for an Ultrafast Electron Diffraction Beamline. [PDF](https://escholarship.mcgill.ca/concern/theses/nk322f78b)
+__Thana Ghunaim__ (M.Sc. Physics 2009), Magnetic Lens Design for an Ultrafast Electron Diffraction Beamline. [PDF](https://escholarship.mcgill.ca/concern/theses/nk322f78b)
 
-__Robert Chatelain__ (M.Sc., Physics 2008), Radio-Frequency Compression of Electron Bunches Applied to Ultrafast Electron Diffraction. [PDF](https://escholarship.mcgill.ca/concern/theses/n009w595z)
+__Robert Chatelain__ (M.Sc. Physics 2008), Radio-Frequency Compression of Electron Bunches Applied to Ultrafast Electron Diffraction. [PDF](https://escholarship.mcgill.ca/concern/theses/n009w595z)
 
-__Vance Morrison__ (M.Sc., Physics 2008), Generation of tunable femtosecond laser pulses and the construction of an ultrafast pump-probe spectrometer. [PDF](https://escholarship.mcgill.ca/concern/theses/sb397c76v)
+__Vance Morrison__ (M.Sc. Physics 2008), Generation of tunable femtosecond laser pulses and the construction of an ultrafast pump-probe spectrometer. [PDF](https://escholarship.mcgill.ca/concern/theses/sb397c76v)
 
 -------------------------------------------------------------------------------
 
